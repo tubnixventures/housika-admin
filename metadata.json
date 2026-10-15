@@ -1,0 +1,6 @@
+{
+  "name": "Housika Admin Backend & Staff Console",
+  "description": "Authoritative Housika Platform Admin Backend powered by Hono, Zod, D1 databases, RBAC hierarchy, Cloudflare caching, trace IDs, audit logging, and staff provisioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
